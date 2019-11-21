@@ -1,7 +1,7 @@
 # Creator's Note:
 # 
 # 1-3-7.py is different than the rest of the files. I have created it more like a mini module.
-# Contains 4 functions that are tasks in 1.3.7
+# Contains 4 functions that are based on the tasks in 1.3.7
 # BONUS function --> bonus credit --> lottery()
 # All resources are free here, except hangman() due to this function can be easily classifed as plagirised if copied.
 
