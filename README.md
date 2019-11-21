@@ -1,7 +1,7 @@
 # MYPLTW-Algorithms-in-Python
 Contains all works by Kaushik Rajarathinam for each section.
 
-All Works created in 2019.
+### Meant for student at Foothill HighSchool | Computer Science Class
 
 ## Usage:
 In the book, each section goes like '1.3.0',1.3.1, 1.3.2, etc..
@@ -22,4 +22,4 @@ print("Hello User")
 I rarely narrate my code or illustrate on how it functions, but occasionally, you may find these comments in ``# format``
 
 _Kaushik Rajarathinam_
-_Works created when I was 15 years old in 2019_
+_|| Works created when I was 15 years old in 2019_
