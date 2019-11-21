@@ -1,7 +1,7 @@
 # MYPLTW-Algorithms-in-Python
 Contains all works by Kaushik Rajarathinam for each section.
 
-### Meant for student at Foothill HighSchool | Computer Science Class
+####### Meant for student at Foothill HighSchool | Computer Science Class
 
 ## Usage:
 In the book, each section goes like '1.3.0',1.3.1, 1.3.2, etc..
