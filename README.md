@@ -24,8 +24,8 @@ I rarely narrate my code or illustrate on how it functions, but occasionally, yo
 
 ## Download:
 Download zip by click [here](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python/archive/master.zip).
-___ZIP may destory format of code, so contact kr4428@pleasantonusd.net to get the actual files___
-___I will not recommend downloading this folder, as it will be useless because it is a one-use guide.___
+___ZIP may destory format of code, so contact kr4428@pleasantonusd.net to get the actual files.___
+___I will also not recommend downloading this folder, as it will be useless because it is a one-use guide.___
 
 ## Credits:
 - Thanks to Daniel Dalby, my computer science teacher.
