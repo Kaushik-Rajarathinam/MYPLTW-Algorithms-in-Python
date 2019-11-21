@@ -22,5 +22,8 @@ print("Hello User")
 ```
 I rarely narrate my code or illustrate on how it functions, but occasionally, you may find these comments in ``# format``
 
+## Download:
+___I will not recommend downloading this folder, as it will be useless as it is a one-use guide.___
+Download zip by click [here](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python/archive/master.zip).
 _Kaushik Rajarathinam_
 _|| Works created when I was 15 years old in 2019_
