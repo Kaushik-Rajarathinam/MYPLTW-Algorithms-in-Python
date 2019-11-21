@@ -8,6 +8,7 @@ In the book, each section goes like '1.3.0',1.3.1, 1.3.2, etc..
 So each file in this repositry will be labled based on it section. _(except the '.' are replaced with '-')_
 
 All you will need to do is copy and paste the code I have and use it.
+__Note: 1-3-0.py and 1-3-1.py works are not included.__
 
 ## Plagirism:
 To avoid plagirism, try modifying my code into the format of the way you code.
