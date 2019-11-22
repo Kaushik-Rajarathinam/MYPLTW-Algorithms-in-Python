@@ -1,5 +1,6 @@
 # MYPLTW-Algorithms-in-Python
 Contains all works by Kaushik Rajarathinam for each section.
+All sections from 1.3 - ALGORITHMS WITH PYTHON(2.7)
 
 ###### Meant for student at Foothill HighSchool | Computer Science Class
 
@@ -16,6 +17,8 @@ So each file in this repository will be labled based on it section. _(except the
 All you will need to do is copy and paste the code I have and use it.
 __Note: 1-3-0.py and 1-3-1.py works are not included.__
 
+Future works will be added soon.
+
 ## Plagirism:
 To avoid plagirism, try modifying my code into the format of the way you code.
 ALL WORKS ARE FREE HERE. If your teacher catches you, this is not my fault, but yours, for you are the one 
@@ -27,6 +30,18 @@ print("Hello User")
 # prints the function hello user
 ```
 I rarely narrate my code or illustrate on how it functions, but occasionally, you may find these comments in ``# format``
+
+Rare times, I may explain the entire function.
+
+``#`` can also represent canceled functions.
+```
+print("Hi")
+#print("Your name??")
+#input(">>>")  ---> CANCELED FUNCTIONS
+```
+If there are problems or the code is obstructed, contact kr4428@pleasantonusd.net 
+
+__Sending abusing messages to my email will not be tolerated.__
 
 ## Download:
 Download zip by click [here](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python/archive/master.zip).
