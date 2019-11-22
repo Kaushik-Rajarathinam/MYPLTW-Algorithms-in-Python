@@ -25,7 +25,7 @@ ALL WORKS ARE FREE HERE. If your teacher catches you, this is not my fault, but 
 who didn't listen to this one sectence.
 
 ## Narrative:
-```
+```python
 print("Hello User")
 # prints the function hello user
 ```
@@ -34,7 +34,7 @@ I rarely narrate my code or illustrate on how it functions, but occasionally, yo
 Rare times, I may explain the entire function.
 
 ``#`` can also represent canceled functions.
-```
+```python
 print("Hi")
 #print("Your name??")
 #input(">>>")  ---> CANCELED FUNCTIONS
