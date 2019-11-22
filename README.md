@@ -1,6 +1,8 @@
 # MYPLTW-Algorithms-in-Python
 Contains all works by Kaushik Rajarathinam for each section.
-```OP```
+```diff
+- Actual work!
+```
 All sections from 1.3 - ALGORITHMS WITH PYTHON(2.7)
 
 ###### Meant for student at Foothill HighSchool | Computer Science Class
