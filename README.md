@@ -8,6 +8,7 @@ All sections from 1.3 - ALGORITHMS WITH PYTHON(2.7)
 - [Usage](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#usage)
 - [Plagirism](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#plagirism)
 - [Narrative](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#narrative)
+- [Download](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#download) _Please read!_
 - [Credits](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#credits)
 
 ## Usage:
