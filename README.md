@@ -12,6 +12,7 @@ All sections from 1.3 - ALGORITHMS WITH PYTHON(2.7)
 - [Plagirism](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#plagirism)
 - [Narrative](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#narrative)
 - [Download](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#download) _Please read!_
+- [Updates](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#updates)
 - [Credits](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#credits)
 
 ## Usage:
@@ -51,6 +52,12 @@ __Sending abusing messages to my email will not be tolerated.__
 Download zip by click [here](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python/archive/master.zip).
 ___ZIP may destory format of code, so contact kr4428@pleasantonusd.net to get the actual files.___
 ___I will also not recommend downloading this folder, as it will be useless because it is a one-use guide.___
+
+## Updates:
+#### 1.0.1
+Added Narration 1.3.2 to 1.3.4 --> New Narrations will be added for other files.
+#### 1.0.0
+Works from 1.3.2 to 1.3.7 have been created. New dowload files.
 
 ## Credits:
 - Thanks to Daniel Dalby, my computer science teacher.
