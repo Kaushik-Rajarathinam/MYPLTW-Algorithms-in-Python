@@ -34,9 +34,7 @@ who didn't listen to this one sectence.
 print("Hello User")
 # prints the function hello user
 ```
-I rarely narrate my code or illustrate on how it functions, but occasionally, you may find these comments in ``# format``
-
-Rare times, I may explain the entire function.
+I am now starting to narrate my codes. You will find them in 1-3-2.py to 1-3-4.py in the ``#format``.
 
 ``#`` can also represent canceled functions.
 ```python
