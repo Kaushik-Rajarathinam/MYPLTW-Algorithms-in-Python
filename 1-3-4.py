@@ -1,4 +1,4 @@
-import random
+import random # IMPORT MODULES RANDOM AND TIME.
 import time
 
 #PART 1
@@ -9,8 +9,8 @@ def food_id(food):
     else:
       return 'Fruit'
   else:
-    if food in starchy:
-      return 'Starchy, NOT FRUIT'
+    if food in starchy:                          # THIS FUNCTION IS NOT WORKING. CODE IS OBSTRUCTED AND I HAVE NO INTENTION IN FIXING
+      return 'Starchy, NOT FRUIT'                   # THIS. THE FUNCTION IS ONLY A LAYOUT IN WHICH YOU NEED TO FIX. 
     else:
       return 'Fruit'
 fruits = ['apple', 'banana', 'orange']
@@ -31,9 +31,9 @@ def food_id_test():
 # Part 2
  
 def guess_once():
-  secret = random.randint(1, 4)
+  secret = random.randint(1, 4) # chooses a random number between 1 to 4. Make sure to import random!
   print 'I have a number between 1 and 4.' 
-  guess = int(raw_input('Guess: ')) # Why can't we use input() Mr Dably?
+  guess = int(raw_input('Guess: ')) # raw_input and asks for number.
   if guess != secret:
       print 'Wrong, my number is ', secret, '.',
   else:
