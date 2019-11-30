@@ -5,7 +5,7 @@ Contains all works by Kaushik Rajarathinam for each section.
 ```
 All sections from 1.3 - ALGORITHMS WITH PYTHON(2.7)
 
-###### Meant for student at Foothill HighSchool | Computer Science Class
+###### Meant for students at Foothill HighSchool | Computer Science Class
 
 ### Contents:
 - [Usage](https://github.com/Kaushik-Rajarathinam/MYPLTW-Algorithms-in-Python#usage)
