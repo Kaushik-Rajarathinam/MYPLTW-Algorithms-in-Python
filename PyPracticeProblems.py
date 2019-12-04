@@ -17,11 +17,10 @@ def num(n_list, limit): #Get list of numbers, and the limit.
 
 def aven(n_list): #get list of numbers
   numList = [] # Empty list of even numbers that are to be appended.
-  tot = 0 # tot = 0
+  tot = 0.0 # tot = 0
   var = 0 # var = 0
   for i in n_list: # for each in the list.
     if i%2 == 0: # if %2 == 0, then it is even.
-      i = i+0.0 # add 0.0 to make it a decimal / float
       numList.append(i) # add the numbers to the list.
   for a in numList: # for a in each number is list.
     tot = tot + a # tot = tot + a
