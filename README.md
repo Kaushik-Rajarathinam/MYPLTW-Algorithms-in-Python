@@ -52,6 +52,8 @@ ___ZIP may destory format of code, so contact kr4428@pleasantonusd.net to get th
 ___I will also not recommend downloading this folder, as it will be useless because it is a one-use guide.___
 
 ## Updates:
+#### 1.0.3
+New File --> 1-3-9.py | Narrations works for all files are coming soon.
 #### 1.0.2
 Added new file called ``6PyPracticeProblems.py``. Contains all the python answers to the practice test problems. 
 #### 1.0.1
