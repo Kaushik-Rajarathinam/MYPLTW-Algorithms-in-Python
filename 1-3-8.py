@@ -29,7 +29,7 @@ def numero():
   print random.randint(0,1),random.randint(0,1),random.randint(0,1),random.randint(0,1),random.randint(0,1),random.randint(0,1),random.randint(0,1),random.randint(0,1),random.randint(0,1),random.randint(0,1) # Random stuff.
   
     
-def 2goguess(): # Guess your number with while loop. 
+def goguess(): # Guess your number with while loop. 
   number = random.randint(1,20)
   guesses = 0
   found = False
