@@ -81,7 +81,7 @@ badWord = ['nigger','faggot','fuck','bitch','Nigger','Fuck','Bitch','Faggot'] # 
 scram = False
 total = 0
 
-print "You have loaded Kauhsik's Program!"
+print "You have loaded Kaushik's Program!"
 print ""
 print "To make this more interesting, tell us your name: "
 while scram != True:
@@ -118,7 +118,7 @@ while scram != True:
 
 time.sleep(0.1)
 print ""
-print "Okay "+name+". The console is ready, type cmds() to see all commands."
+print "Okay "+name+". The program is ready, type cmds() to see all commands."
 
 def cmds():
   print "Commands:"
