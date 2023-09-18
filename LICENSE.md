@@ -1,3 +1,0 @@
-# LICENSE
-
-### To be added.
