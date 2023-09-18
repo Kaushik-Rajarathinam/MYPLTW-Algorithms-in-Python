@@ -75,13 +75,13 @@ verCode = ['DanieldDably', 'EOF','SOP','GFD','NIGA','DOG','MON','NIG','SOA','IGL
 players = ['DanieldDably', 'Chakra', 'Kaushik', 'Joe', 'Noah', 'Ethan', 'James', 'Pablo', 'Eshaan', 'Tomas', 'Thomas', 'Temur', '666'] # Players
 words = ['chakra','joe','noah','dably','python','eshaan','zeroparticipation','monkey','horrible','danielddably', 'chicken','minecraft','krunker','god','sellpoints','dablymad','spritecranberry','ghost','ransom','biology','computerscience','man','sam','ashfuahisaojhahjfhafjsdhnjkncvskudhgtoeuashfoehawifhsihawofihiwhafoihajghkjashbghagaowf']
 # words used for hangman
-badWord = ['nigger','faggot','fuck','bitch','Nigger','Fuck','Bitch','Faggot'] # This is my client, and I don't like bad words.
+badWord = ['nigger','faggot','fuck','bitch','Nigger','Fuck','Bitch','Faggot'] # Bad word filter.
 # Bad Word filter is not accurate.. and it will not be fixed soon.
 
 scram = False
 total = 0
 
-print "You have loaded CorporalSins's Shell V.1.3.7"
+print "You have loaded Kauhsik's Program!"
 print ""
 print "To make this more interesting, tell us your name: "
 while scram != True:
